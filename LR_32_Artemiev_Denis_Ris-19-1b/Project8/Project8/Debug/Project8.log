@@ -1,0 +1,48 @@
+﻿  Graph.cpp
+c:\users\drden\source\repos\project8\project8\graph.cpp(106): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\drden\source\repos\project8\project8\graph.cpp(109): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\drden\source\repos\project8\project8\graph.cpp(161): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\drden\source\repos\project8\project8\graph.cpp(162): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\drden\source\repos\project8\project8\graph.cpp(312): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\drden\source\repos\project8\project8\graph.cpp(333): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\drden\source\repos\project8\project8\graph.cpp(340): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\drden\source\repos\project8\project8\graph.cpp(353): warning C4305: аргумент: усечение из "double" в "GLfloat"
+c:\users\drden\source\repos\project8\project8\graph.cpp(355): warning C4305: аргумент: усечение из "double" в "GLfloat"
+c:\users\drden\source\repos\project8\project8\graph.cpp(371): warning C4244: аргумент: преобразование "double" в "GLint", возможна потеря данных
+c:\users\drden\source\repos\project8\project8\graph.cpp(372): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\drden\source\repos\project8\project8\graph.cpp(374): warning C4244: аргумент: преобразование "double" в "GLint", возможна потеря данных
+c:\users\drden\source\repos\project8\project8\graph.cpp(375): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\drden\source\repos\project8\project8\graph.cpp(382): warning C4305: аргумент: усечение из "double" в "GLfloat"
+c:\users\drden\source\repos\project8\project8\graph.cpp(384): warning C4305: аргумент: усечение из "double" в "GLfloat"
+c:\users\drden\source\repos\project8\project8\graph.cpp(399): warning C4244: аргумент: преобразование "double" в "GLint", возможна потеря данных
+c:\users\drden\source\repos\project8\project8\graph.cpp(400): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\drden\source\repos\project8\project8\graph.cpp(407): warning C4305: аргумент: усечение из "double" в "GLfloat"
+c:\users\drden\source\repos\project8\project8\graph.cpp(409): warning C4305: аргумент: усечение из "double" в "GLfloat"
+c:\users\drden\source\repos\project8\project8\graph.cpp(425): warning C4244: аргумент: преобразование "double" в "GLint", возможна потеря данных
+c:\users\drden\source\repos\project8\project8\graph.cpp(426): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\drden\source\repos\project8\project8\graph.cpp(428): warning C4244: аргумент: преобразование "double" в "GLint", возможна потеря данных
+c:\users\drden\source\repos\project8\project8\graph.cpp(429): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\drden\source\repos\project8\project8\graph.cpp(436): warning C4305: аргумент: усечение из "double" в "GLfloat"
+c:\users\drden\source\repos\project8\project8\graph.cpp(438): warning C4305: аргумент: усечение из "double" в "GLfloat"
+c:\users\drden\source\repos\project8\project8\graph.cpp(453): warning C4244: аргумент: преобразование "double" в "GLint", возможна потеря данных
+c:\users\drden\source\repos\project8\project8\graph.cpp(454): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\drden\source\repos\project8\project8\graph.cpp(462): warning C4305: аргумент: усечение из "double" в "GLfloat"
+c:\users\drden\source\repos\project8\project8\graph.cpp(464): warning C4305: аргумент: усечение из "double" в "GLfloat"
+c:\users\drden\source\repos\project8\project8\graph.cpp(479): warning C4244: аргумент: преобразование "double" в "GLint", возможна потеря данных
+c:\users\drden\source\repos\project8\project8\graph.cpp(480): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\drden\source\repos\project8\project8\graph.cpp(516): warning C4305: аргумент: усечение из "double" в "GLfloat"
+c:\users\drden\source\repos\project8\project8\graph.cpp(528): warning C4305: аргумент: усечение из "double" в "GLfloat"
+c:\users\drden\source\repos\project8\project8\graph.cpp(553): warning C4244: аргумент: преобразование "double" в "GLint", возможна потеря данных
+c:\users\drden\source\repos\project8\project8\graph.cpp(560): warning C4244: инициализация: преобразование "int" в "float", возможна потеря данных
+c:\users\drden\source\repos\project8\project8\graph.cpp(561): warning C4244: инициализация: преобразование "int" в "float", возможна потеря данных
+c:\users\drden\source\repos\project8\project8\graph.cpp(565): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+c:\users\drden\source\repos\project8\project8\graph.cpp(566): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+c:\users\drden\source\repos\project8\project8\graph.cpp(568): warning C4244: аргумент: преобразование "double" в "GLint", возможна потеря данных
+c:\users\drden\source\repos\project8\project8\graph.cpp(570): warning C4244: аргумент: преобразование "int" в "GLfloat", возможна потеря данных
+c:\users\drden\source\repos\project8\project8\graph.cpp(606): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+c:\users\drden\source\repos\project8\project8\graph.cpp(607): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+c:\users\drden\source\repos\project8\project8\graph.cpp(769): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\drden\source\repos\project8\project8\graph.cpp(831): warning C4305: аргумент: усечение из "double" в "GLclampf"
+  Source.cpp
+  Создание кода...
+  Project8.vcxproj -> C:\Users\drden\source\repos\Project8\Debug\Project8.exe
