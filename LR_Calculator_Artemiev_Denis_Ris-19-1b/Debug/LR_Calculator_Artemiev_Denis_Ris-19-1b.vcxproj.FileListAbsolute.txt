@@ -1,0 +1,3 @@
+C:\Users\drden\source\repos\LR_Calculator_Artemiev_Denis_Ris-19-1b\LR_Calculator_Artemiev_Denis_Ris-19-1b\Debug\LR_Calculator_Artemiev_Denis_Ris-19-1b.vcxprojAssemblyReference.cache
+C:\Users\drden\source\repos\LR_Calculator_Artemiev_Denis_Ris-19-1b\LR_Calculator_Artemiev_Denis_Ris-19-1b\Debug\LRCalculatorArtemievDenisRis191b.MyForm.resources
+C:\Users\drden\source\repos\LR_Calculator_Artemiev_Denis_Ris-19-1b\LR_Calculator_Artemiev_Denis_Ris-19-1b\Debug\LR_Calculator_Artemiev_Denis_Ris-19-1b.vcxproj.GenerateResource.cache

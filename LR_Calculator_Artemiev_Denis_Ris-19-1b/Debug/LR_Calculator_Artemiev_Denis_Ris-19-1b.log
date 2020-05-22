@@ -1,0 +1,6 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(467,5): warning MSB8028: промежуточный каталог (Debug\) содержит файлы, которые используются совместно с другим проектом (LR_Calculator_Artemiev_Denis_Ris-19-1b.vcxproj).  Это может привести к ошибкам очистки и перестроения.
+  MyForm.cpp
+  .NETFramework,Version=v4.7.2.AssemblyAttributes.cpp
+  Создание кода...
+  MyForm.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  LR_Calculator_Artemiev_Denis_Ris-19-1b.vcxproj -> C:\Users\drden\source\repos\LR_Calculator_Artemiev_Denis_Ris-19-1b\Debug\LR_33_Calculator_Artemiev_Denis_Ris-19-1b.exe
